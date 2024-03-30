@@ -24,6 +24,7 @@ User authentication system using React or Next.js for the front end and GraphQL 
 * Run the command: `npm install`
 * Run the command to start the backend server: `node index.js`
 * Navigate to the frontend directory: `cd client`
+* Run the command to install dependencies: `npm install`
 * Run the command to start the frontend server: `npm start`
 
 
