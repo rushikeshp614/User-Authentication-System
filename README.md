@@ -20,10 +20,10 @@ User authentication system using React or Next.js for the front end and GraphQL 
 
 * Clone the repository
 * Create database connection link from MondoDB Atlas
-* Navigate to the directory: `cd AuthSystem`
+* Navigate to the main directory
 * Run the command: `npm install`
 * Run the command to start the backend server: `node index.js`
-* Navigate to the frontend directory: `cd AuthSystem/client`
+* Navigate to the frontend directory: `cd client`
 * Run the command to start the frontend server: `npm start`
 
 
